@@ -1,0 +1,27 @@
+======================================================
+SQL SERVER
+======================================================
+SQLEXPRESS2012 
+======================================================
+MIGRATION COMMANDS
+======================================================
+1)enable-migrations
+2)add-migration initialMigration
+3)update-database
+======================================================
+
+======================================================
+Structure and Design
+======================================================
+- Created repository pattern for the perform database operation.
+- Created diffrent model for view and domains
+- Extentensions methods for database connection string.
+- Used EF core for the performing database operation.
+- Swagger to perform operation from UI.
+
+
+
+
+
+
+
